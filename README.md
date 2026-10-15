@@ -9,13 +9,12 @@ Here I document my technical notes, scripts, and study projects.
 
 ## 🌐 Networking
 
-* Раздел создан. Заметки будут добавляться по мере учёбы.
 
 ---
 
 ## 🔒 Cybersecurity
 
-* Раздел создан. Заметки будут добавляться по мере учёбы.
+
 
 ---
 
